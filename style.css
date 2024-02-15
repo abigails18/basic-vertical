@@ -16,8 +16,8 @@ body {
 /* the main container */
 
 .card{
-  width: 270;
-  height: 420;
+  width: 270px;
+  height: 420px;
   position: fixed;
   top: 50%;
   left: 50%;
