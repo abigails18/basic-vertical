@@ -35,9 +35,9 @@ body {
 h1{
   margin-bottom: 0px;
   text-align: center;
-  font-size: 40;
+  font-size: 27;
   font-weight: 100;
-  position: relative; top: 282;
+  position: relative; top: 200;
   color: #575E48;
   .inria-serif-regular {
     font-family: "Inria Serif", serif;
@@ -49,10 +49,10 @@ h1{
 h2{
   margin-top: 0px;
   padding-top: 0px;
-  font-size: 26;
+  font-size: 20;
   font-weight: 100;
   text-align: center;
-  position: relative; top: 295;
+  position: relative; top: 205;
   color: #575E48;
   .inria-serif-regular {
     font-family: "Inria Serif", serif;
@@ -63,11 +63,11 @@ h2{
 
 h3{
   margin-top: 0px;
-  margin-left: 110px;
+  margin-left: 70;
   padding-top: 0px;
   text-align: left;
-  position: relative; top: 390;
-  font-size: 20;
+  position: relative; top: 280;
+  font-size: 15;
   font-weight: 100;
   .inria-serif-regular {
     font-family: "Inria Serif", serif;
@@ -77,11 +77,11 @@ h3{
 }
 h4{
   margin-top: 0px;
-  margin-left: 110px;
+  margin-left: 70px;
   padding-top: 0px;
   text-align: left;
-  position: relative; top: 420;
-  font-size: 20;
+  position: relative; top: 295;
+  font-size: 15;
   font-weight: 100;
   .inria-serif-regular {
     font-family: "Inria Serif", serif;
